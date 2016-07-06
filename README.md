@@ -2,7 +2,7 @@
 
 # About
 Python script to build a socket server using the Leap.py. 
-It will send a message with X,Y,SWIPE_LEFT_OR_RIGHT,FIXED_REFERENCE.
+It will send a message containing `POS_X,POS_Y,WAS_SWIPE_LEFT_OR_RIGHT,FIXED_REFERENCE` everytime it detects Hand movement.
 
 
 
